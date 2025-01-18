@@ -1,0 +1,8 @@
+{
+    "canisters": {
+        "personal-website": {
+            "type": "assets",
+            "source": ["assets"]
+        }
+    }
+}
